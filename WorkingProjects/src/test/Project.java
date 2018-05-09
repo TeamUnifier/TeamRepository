@@ -4,17 +4,7 @@ public class Project
 {
   int x;
   int y;
-  
-  String var;
-  
-  
-  public String getVar() {
-	return var;
-}
-public void setVar(String var) {
-	this.var = var;
-}
-public int getX() {
+  public int getX() {
 	return x;
 }
 public void setX(int x) {
