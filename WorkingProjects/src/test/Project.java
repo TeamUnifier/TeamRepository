@@ -5,6 +5,8 @@ public class Project
   int x;
   int y;
   
+  int z;
+  
   public String getVar() {
 	return var;
 }
