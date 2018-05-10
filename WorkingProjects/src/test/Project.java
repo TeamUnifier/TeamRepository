@@ -31,9 +31,17 @@ public void setY(int y) {
  } 
   
  
+ 
  int subInt()
  {
 	 return x-y;
  }
+ 
+ int mul() 
+ {
+	 return x*y;
+ }
+ 
+ 
  
 }
