@@ -30,4 +30,10 @@ public void setY(int y) {
 	 return x+y;
  } 
   
+ 
+ int subInt()
+ {
+	 return x-y;
+ }
+ 
 }
