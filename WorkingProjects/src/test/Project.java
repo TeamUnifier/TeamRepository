@@ -36,4 +36,10 @@ public void setY(int y) {
 	 return x-y;
  }
  
+ int manipulateNumber(int x, int y)
+ {
+	 return x=y+x;
+ }
+ 
+ 
 }
